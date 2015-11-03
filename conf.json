@@ -1,0 +1,18 @@
+{
+  "bots": [
+    {
+      "nick": "helloBot5000",
+      "server": "irc.freenode.net",
+      "channels": [
+        "#functional_team"
+      ]
+    },
+    {
+      "nick": "roostBot",
+      "server": "irc.freenode.net",
+      "channels": [
+        "#functional_team"
+      ]
+    }
+  ]
+}
