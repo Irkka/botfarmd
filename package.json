@@ -1,0 +1,28 @@
+{
+  "name": "botfarmd",
+  "version": "0.0.1",
+  "description": "IRC bot control daemon",
+  "main": "bin/botfarmd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irkka/botfarmd.git"
+  },
+  "keywords": [
+    "irc",
+    "bot",
+    "daemon"
+  ],
+  "author": "Ilkka Hakkarainen",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Irkka/botfarmd/issues"
+  },
+  "homepage": "https://github.com/Irkka/botfarmd#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "irc": "^0.4.0"
+  }
+}
