@@ -5,6 +5,10 @@
       "server": "irc.freenode.net",
       "channels": [
         "#functional_team"
+      ],
+      "plugins": [
+        "github",
+        "mtg"
       ]
     },
     {
@@ -12,6 +16,9 @@
       "server": "irc.freenode.net",
       "channels": [
         "#functional_team"
+      ],
+      "plugins": [
+        "github"
       ]
     }
   ]
