@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "IRC bot control daemon",
   "main": "lib/botfarmd.js",
-  "bin": { "botfarmer": "./bin/botfarmer" },
+  "bin": {
+    "botfarmer": "./bin/botfarmer"
+  },
   "scripts": {
     "test": "gulp test"
   },
