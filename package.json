@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Irkka/botfarmd#readme",
   "dependencies": {
+    "github": "^0.2.4",
     "gulp": "^3.9.0",
     "irc": "^0.4.0"
   },
