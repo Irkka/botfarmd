@@ -7,6 +7,7 @@
     "botfarmer": "./bin/botfarmer"
   },
   "scripts": {
+    "start": "node lib/botfarmd.js",
     "test": "gulp test"
   },
   "repository": {
